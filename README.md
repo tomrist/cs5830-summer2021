@@ -8,11 +8,11 @@ cryptographic algorithms within broader projects.
 
 Classroom: Bloomberg 161 and 165
 
-Instructor: Tom Ristenpart (ristenpart@cornell.edu) (https://rist.tech.cornell.edu)
+Instructor: Tom Ristenpart (ristenpart@cornell.edu, https://rist.tech.cornell.edu)
 
 Office hours: By appointment. Don't hesitate to ask!
 
-TA: Julia Len (jl3836@cornell.edu) (https://www.cs.cornell.edu/~jlen/)
+TA: Julia Len (jl3836@cornell.edu, https://www.cs.cornell.edu/~jlen/)
 
 Office hours: TBA.
 
@@ -26,15 +26,15 @@ etc. If in doubt shoot the instructor an email.
 
 ### The plan
 
-The class is a 6 week summer session, and as such it's a compacted version of the more 
-usual 15 week semester-long course on this topic that I teach.  
-As such we expect you to spend a good chunk of time during the week on the class, but it should
-still not amount to a full time job and we will try to set expectations
+The class is a 6 week summer session, and as such it's a compacted version of
+the more usual 15 week semester-long course on this topic that I teach.  As such
+we expect you to spend a good chunk of time during the week on the class, but it
+should still not amount to a full time job and we will try to set expectations
 realistically. Particularly so given the difficult year we've all had due to the
 pandemic. 
 
 The plan is to have a mixture of lectures and reserved time for in class
-work with instructors available to help. We'll refer to those as labs.
+work with instructors available to help. We'll often refer to those as labs.
 
 We will try to be as flexible as possible regarding in person versus
 remote participation. Facilities has set aside a sufficiently large classroom to allow
