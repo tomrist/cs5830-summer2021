@@ -39,7 +39,7 @@ work with instructors available to help. We'll often refer to those as labs.
 We will try to be as flexible as possible regarding in person versus
 remote participation. Facilities has set aside a sufficiently large classroom to allow
 low density seating, and we will take other precautions to ensure safety for
-students and instructors. If you have any concerns please contact Tom [student
+students and instructors. If you have any concerns please contact the instructor or [student
 services](https://studentservices.tech.cornell.edu/).
 
 
