@@ -1,7 +1,5 @@
 ### Syllabus for CS 5830
 
-# Syllabus for CS 5830
-
 Welcome to CS 5830, Cryptography. We will be studying cryptography, both the
 theory and how it is used in practice. By the end of the course you should
 understand the basics of cryptography, how cryptographers analyze the
